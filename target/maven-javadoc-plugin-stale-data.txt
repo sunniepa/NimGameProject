@@ -1,0 +1,54 @@
+@options
+@packages
+@argfile
+-classpath
+'C:/Users/DELL/.m2/repository/unknown/binary/AbsoluteLayout/SNAPSHOT/AbsoluteLayout-SNAPSHOT.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'1.8'
+-sourcepath
+'D:/study_space/tai_lieu/CT239_NienLuanCoSoNganhKTPM/NimGame/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'D:/study_space/tai_lieu/CT239_NienLuanCoSoNganhKTPM/NimGame/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'NimGame 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' 'D:/study_space/tai_lieu/CT239_NienLuanCoSoNganhKTPM/NimGame/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'NimGame 1.0-SNAPSHOT API'
+com.mycompany.nimgame
+'D:/study_space/tai_lieu/CT239_NienLuanCoSoNganhKTPM/NimGame/src/main/java/MenuJFrame.java'
+C:\Users\DELL\.m2\repository\unknown\binary\AbsoluteLayout\SNAPSHOT\AbsoluteLayout-SNAPSHOT.jar = 1693751372044
+D:\study_space\tai_lieu\CT239_NienLuanCoSoNganhKTPM\NimGame\src\main\java\MenuJFrame.form = 1694591051985
+D:\study_space\tai_lieu\CT239_NienLuanCoSoNganhKTPM\NimGame\src\main\java\MenuJFrame.java = 1694591052030
+D:\study_space\tai_lieu\CT239_NienLuanCoSoNganhKTPM\NimGame\src\main\java = 1696863061787
+D:\study_space\tai_lieu\CT239_NienLuanCoSoNganhKTPM\NimGame\target\site\apidocs\allclasses-frame.html = 1698025029503
+D:\study_space\tai_lieu\CT239_NienLuanCoSoNganhKTPM\NimGame\target\site\apidocs\allclasses-noframe.html = 1698025029503
+D:\study_space\tai_lieu\CT239_NienLuanCoSoNganhKTPM\NimGame\target\site\apidocs\constant-values.html = 1698025029437
+D:\study_space\tai_lieu\CT239_NienLuanCoSoNganhKTPM\NimGame\target\site\apidocs\deprecated-list.html = 1698025029494
+D:\study_space\tai_lieu\CT239_NienLuanCoSoNganhKTPM\NimGame\target\site\apidocs\help-doc.html = 1698025029511
+D:\study_space\tai_lieu\CT239_NienLuanCoSoNganhKTPM\NimGame\target\site\apidocs\index-all.html = 1698025029494
+D:\study_space\tai_lieu\CT239_NienLuanCoSoNganhKTPM\NimGame\target\site\apidocs\index.html = 1698025029506
+D:\study_space\tai_lieu\CT239_NienLuanCoSoNganhKTPM\NimGame\target\site\apidocs\MenuJFrame.html = 1698025028769
+D:\study_space\tai_lieu\CT239_NienLuanCoSoNganhKTPM\NimGame\target\site\apidocs\overview-frame.html = 1698025029405
+D:\study_space\tai_lieu\CT239_NienLuanCoSoNganhKTPM\NimGame\target\site\apidocs\overview-summary.html = 1698025029511
+D:\study_space\tai_lieu\CT239_NienLuanCoSoNganhKTPM\NimGame\target\site\apidocs\overview-tree.html = 1698025029488
+D:\study_space\tai_lieu\CT239_NienLuanCoSoNganhKTPM\NimGame\target\site\apidocs\package-frame.html = 1698025029405
+D:\study_space\tai_lieu\CT239_NienLuanCoSoNganhKTPM\NimGame\target\site\apidocs\package-list = 1698025029405
+D:\study_space\tai_lieu\CT239_NienLuanCoSoNganhKTPM\NimGame\target\site\apidocs\package-summary.html = 1698025029418
+D:\study_space\tai_lieu\CT239_NienLuanCoSoNganhKTPM\NimGame\target\site\apidocs\package-tree.html = 1698025029421
+D:\study_space\tai_lieu\CT239_NienLuanCoSoNganhKTPM\NimGame\target\site\apidocs\package-use.html = 1698025029478
+D:\study_space\tai_lieu\CT239_NienLuanCoSoNganhKTPM\NimGame\target\site\apidocs\script.js = 1698025029519
+D:\study_space\tai_lieu\CT239_NienLuanCoSoNganhKTPM\NimGame\target\site\apidocs\serialized-form.html = 1698025029453
+D:\study_space\tai_lieu\CT239_NienLuanCoSoNganhKTPM\NimGame\target\site\apidocs\stylesheet.css = 1698025029519
